@@ -1,1 +1,1 @@
-# nihongo-wakaranai
+# Nihongo Flashcard Game
